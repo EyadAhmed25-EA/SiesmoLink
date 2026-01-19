@@ -54,7 +54,6 @@ Technology Stack
 
 	•	Python (Image analysis and detection algorithm)
 	•	Thonny IDE
-	•	Raspberry Pi
 	•	Solar panel + battery system
 	•	Satellite GeoTIFF imagery
 	•	3D CAD modeling software
