@@ -73,10 +73,3 @@ Key Features
 
 This repository documents the system design, detection logic, and hardware integration for academic and research demonstration purposes.
 
-
-
-If you’d like, I can also generate:
-	•	A system architecture diagram description section
-	•	A setup / installation guide
-	•	A resume-optimized project summary
-	•	Or a technical algorithm breakdown section
